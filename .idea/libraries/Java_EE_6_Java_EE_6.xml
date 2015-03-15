@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar:///opt/activemq/activemq-all-5.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///opt/activemq/activemq-all-5.9.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
