@@ -7,9 +7,7 @@ import com.patterns.creational.abstractfactory.transport.interfaces.Car;
 public interface TransportFactory {
     
     // что фабрика будет производить
-    
     Car createCar();// автомобили
-    
     Aircraft createAircraft(); // самолеты
 
 }
