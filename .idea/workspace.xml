@@ -2,33 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="588fb3d3-1d4f-462d-890b-82f3059b404a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/patterns/creational/abstractfactory/start/CitySelector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/patterns/creational/abstractfactory/factory/interfaces/TransportCity.java" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\.idea\dataSources.ids" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\abstractfactory\14_abstractfactory.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\adapter\12_adapter.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\builder\17_builder.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\builder\Application.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\builder\FrameHouse.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\builder\FrameHouseBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\builder\OfficeBuilding.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\builder\OfficeBuildingBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\command\04_command.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\composite\16_composite.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\decorator\18_decorator.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\facade\21_facade.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\factorymethod\19_factorymethod.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\observer\03_observer.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\proxy\13_proxy.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\singleton\23_singleton.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\state\05_state.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\strategy\07_strategy.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\workerthread\ex03\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\workerthread\ex03\MainTest.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\workerthread\ex03\ViewTable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\workerthread\ex03\ViewableTable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\JavaLessons\all_patterns\Lessons\out\production\Lessons\com\patternsdemo\workerthread\ex05\Main.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/com/patterns/creational/abstractfactory/transport/interfaces/Aircraft.class" afterPath="$PROJECT_DIR$/out/production/Lessons/com/patterns/creational/abstractfactory/transport/interfaces/Aircraft.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/com/multithreading/dialogpackage/AlphabetModel.class" afterPath="$PROJECT_DIR$/out/production/Lessons/com/multithreading/dialogpackage/AlphabetModel.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/com/patterns/creational/builder/client/Application.class" afterPath="$PROJECT_DIR$/out/production/Lessons/com/patterns/creational/builder/client/Application.class" />
@@ -182,13 +155,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/com/patterns/creational/builder/technerium/Window.class" afterPath="$PROJECT_DIR$/out/production/Lessons/com/patterns/creational/builder/technerium/Window.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/com/patterns/structural/decorator/objects/Window.class" afterPath="$PROJECT_DIR$/out/production/Lessons/com/patterns/structural/decorator/objects/Window.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/com/patterns/structural/facade/parts/Zazhiganie.class" afterPath="$PROJECT_DIR$/out/production/Lessons/com/patterns/structural/facade/parts/Zazhiganie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lessons.iml" afterPath="$PROJECT_DIR$/Lessons.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/patterns/creational/abstractfactory/start/Start.java" afterPath="$PROJECT_DIR$/src/com/patterns/creational/abstractfactory/start/Start.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/patterns/creational/factorymethod/Start.java" afterPath="$PROJECT_DIR$/src/com/patterns/creational/factorymethod/Start.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/patterns/creational/abstractfactory/factory/interfaces/TransportFactory.java" afterPath="$PROJECT_DIR$/src/com/patterns/creational/abstractfactory/factory/interfaces/TransportFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lessons/com/patterns/docs.txt" afterPath="$PROJECT_DIR$/out/production/Lessons/com/patterns/docs.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Lessons.iws" />
@@ -1493,7 +1460,7 @@
       <workItem from="1406057647636" duration="166000" />
       <workItem from="1406085462120" duration="679000" />
       <workItem from="1406406348196" duration="69000" />
-      <workItem from="1430173337468" duration="4578000" />
+      <workItem from="1430173337468" duration="4684000" />
     </task>
     <task id="LOCAL-00001" summary="12345">
       <created>1400163670451</created>
@@ -1501,15 +1468,21 @@
       <option name="project" value="LOCAL" />
       <updated>1400163670451</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Собираю под Java-8">
+      <created>1430178026401</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1430178026401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="418537000" />
+    <option name="totallyTimeSpent" value="418643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="RESTClient" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1566,7 +1539,8 @@
     </option>
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <MESSAGE value="12345" />
-    <option name="LAST_COMMIT_MESSAGE" value="12345" />
+    <MESSAGE value="Собираю под Java-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Собираю под Java-8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
